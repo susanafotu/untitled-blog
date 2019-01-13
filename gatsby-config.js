@@ -10,7 +10,7 @@ module.exports = {
       github: 'susanafotu',
     },
   },
-  pathPrefix: '/gatsby-paginated-blog',
+  pathPrefix: '/untitled-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
