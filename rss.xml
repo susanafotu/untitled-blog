@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[untitled blog]]></title><description><![CDATA[A junior developer's musings, explorations, and learnings of all things technology.]]></description><link>https:/susanafotu.github.io/untitled-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Jan 2019 00:54:08 GMT</lastBuildDate><item><title><![CDATA[Obligatory "Hello World" post]]></title><description><![CDATA[Look! I  actually  made progress on a side project! I started this blog — entitled “untitled blog” until I 
-can think of a name I like — not…]]></description><link>https:/susanafotu.github.io/untitled-blog//hello-world/</link><guid isPermaLink="false">https:/susanafotu.github.io/untitled-blog//hello-world/</guid><pubDate>Sat, 12 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;Look! I &lt;em&gt;actually&lt;/em&gt; made progress on a side project!&lt;/h4&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[untitled blog]]></title><description><![CDATA[A junior developer's musings, explorations, and learnings of all things technology.]]></description><link>https:/susanafotu.github.io/untitled-bloggs/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Jan 2019 00:57:05 GMT</lastBuildDate><item><title><![CDATA[Obligatory "Hello World" post]]></title><description><![CDATA[Look! I  actually  made progress on a side project! I started this blog — entitled “untitled blog” until I 
+can think of a name I like — not…]]></description><link>https:/susanafotu.github.io/untitled-bloggs//hello-world/</link><guid isPermaLink="false">https:/susanafotu.github.io/untitled-bloggs//hello-world/</guid><pubDate>Sat, 12 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;Look! I &lt;em&gt;actually&lt;/em&gt; made progress on a side project!&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;https://media.tenor.com/images/424b004561d02b05588d5ce8e3ab4136/tenor.gif&quot; alt=&quot;excited dance gif&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I started this blog — entitled “untitled blog” until I
 can think of a name I like — not only as a way to
@@ -18,6 +18,6 @@ their amazing docs that allowed me to get up and running
 almost immediately. A post in the very near future will
 be about my experience working with Gatsby and my
 thoughts, etc. &lt;/p&gt;
-&lt;p&gt;Without furtheradieu, I leave you with an adorable
+&lt;p&gt;Without further adieu, I leave you with an adorable
 pupper gif while I continue working on this blog!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://thumbs.gfycat.com/FatScholarlyCondor-max-1mb.gif&quot; alt=&quot;a puppy falling on the ground after being distracted by a leaf and a ball&quot;&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
