@@ -4,7 +4,7 @@ module.exports = {
     author: 'Susana Fotu',
     description:
       "A junior developer's musings, explorations, and learnings of all things technology.",
-    // siteUrl: 'https://nickymeuleman.github.io/gatsby-paginated-blog/',
+    siteUrl: 'https:/susanafotu.github.io/untitled-blog/',
     social: {
       twitter: `thuthanatofu`,
       github: 'susanafotu',
