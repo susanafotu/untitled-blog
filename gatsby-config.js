@@ -4,7 +4,7 @@ module.exports = {
     author: 'Susana Fotu',
     description:
       "A junior developer's musings, explorations, and learnings of all things technology.",
-    siteUrl: 'https:/susanafotu.github.io/untitled-blog/',
+    siteUrl: 'https:/susanafotu.github.io/untitled-bloggs/',
     social: {
       twitter: `thuthanatofu`,
       github: 'susanafotu',

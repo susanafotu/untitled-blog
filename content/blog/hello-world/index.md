@@ -31,7 +31,7 @@ almost immediately. A post in the very near future will
 be about my experience working with Gatsby and my
 thoughts, etc. 
 
-Without furtheradieu, I leave you with an adorable
+Without further adieu, I leave you with an adorable
 pupper gif while I continue working on this blog!
 
 ![a puppy falling on the ground after being distracted by a leaf and a ball](https://thumbs.gfycat.com/FatScholarlyCondor-max-1mb.gif)
