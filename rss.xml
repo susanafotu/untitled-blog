@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[untitled blog]]></title><description><![CDATA[A junior developer's musings, explorations, and learnings of all things technology.]]></description><link>https:/susanafotu.github.io/untitled-bloggs/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Jan 2019 00:57:05 GMT</lastBuildDate><item><title><![CDATA[Obligatory "Hello World" post]]></title><description><![CDATA[Look! I  actually  made progress on a side project! I started this blog — entitled “untitled blog” until I 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[untitled blog]]></title><description><![CDATA[A junior developer's musings, explorations, and learnings of all things technology.]]></description><link>https:/susanafotu.github.io/untitled-bloggs/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Feb 2019 00:22:50 GMT</lastBuildDate><item><title><![CDATA[Tech Intersections 2019]]></title><description><![CDATA[Last weekend, I had the immense pleasure to attend  Tech Intersections 
+hosted at my alma mater,  Mills College .  As described on the…]]></description><link>https:/susanafotu.github.io/untitled-bloggs//Tech-Intersections/</link><guid isPermaLink="false">https:/susanafotu.github.io/untitled-bloggs//Tech-Intersections/</guid><pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Last weekend, I had the immense pleasure to attend &lt;a href=&quot;http://techintersections.org&quot;&gt;Tech Intersections&lt;/a&gt;
+hosted at my alma mater, &lt;a href=&quot;https://mills.edu&quot;&gt;Mills College&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;As described on the website: &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tech Intersections is an affordable conference for the womxn of color most underrepresented in tech
+to come together and learn from each other’s successes, challenges, and experiences.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Not only was this conference a chance to visit Mills — my second home — but it afforded me the opportunity
+to engage in a community within tech that I often feel starved of in Minnesota. This is not to say that my
+current place of work isn’t inclusive or supportive, but that it’s vastly white and male. On my current team,
+I believe I was the &lt;em&gt;second&lt;/em&gt; woman to join. And I joined a mere six months after the first woman joined. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[I made a favicon using Sketch]]></title><description><![CDATA[When it comes to being creative, I’ve  always  had high hopes and aspirations. But like the ♓️I am, I let myself get lazy and end up with…]]></description><link>https:/susanafotu.github.io/untitled-bloggs//i-made-a-favicon/</link><guid isPermaLink="false">https:/susanafotu.github.io/untitled-bloggs//i-made-a-favicon/</guid><pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;When it comes to being creative, I’ve &lt;em&gt;always&lt;/em&gt; had high hopes and aspirations.&lt;/h4&gt;
+&lt;p&gt;But like the ♓️I am, I let myself get lazy and end up with lots of unfinished
+projects: &lt;em&gt;I’m looking directly at an unfinished canvas as I type this.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/b8cfc069b7f6b3c7b6479935d5bfa744/tenor.gif?itemid=4519756&quot; alt=&quot;lazy seal gif&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And in the off chance that I have a spurt of inspiration and drive to complete
+something for myself, I tend to become obsessive over the tiniest of details
+and &lt;strong&gt;spend hours&lt;/strong&gt; trying to get something &lt;em&gt;just right&lt;/em&gt;. Whoever said &lt;em&gt;you are your own worst enemy&lt;/em&gt;
+couldn’t have of been more right. &lt;/p&gt;
+&lt;p&gt;With the creation of this blog, for example, I spent a couple &lt;strong&gt;hours&lt;/strong&gt; alone trying to decide on a color palette —
+looking for colors I liked that were also widely accessible. To accomplish this, I used a combination of
+&lt;a href=&quot;http://colorsafe.co/&quot;&gt;Color Safe&lt;/a&gt;, &lt;a href=&quot;https://mycolor.space/&quot;&gt;Color Space&lt;/a&gt;, &lt;a href=&quot;http://paletton.com/&quot;&gt;Paletton&lt;/a&gt;,
+and &lt;a href=&quot;https://webaim.org/resources/contrastchecker/&quot;&gt;Web Aim Color Contrast Checker&lt;/a&gt;. After spending a couple
+hours on a color palette alone, I was quickly burnt out on all work for this blog so I published and called it
+quits for the night. &lt;/p&gt;
+&lt;p&gt;In the morning, I checked the blog to realize I hadn’t changed the favicon (something I was most excited about creating)
+to something of my own. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://pm1.narvii.com/6294/52f5bc75583630946a5b06ef1df63b34f68e2950_128.jpg&quot; alt=&quot;Homer Simpson &amp;#x22;doh&amp;#x22;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;So to kill 2 birds with 1 stone, I decided that I would practice time-boxing myself and my advance Sketch skills
+by creating a favicon for myself. I knew that I wanted the icon to be a 🍍 — pineapples have been a symbolic part
+of my life for some years now — but I was unsure of how I wanted the icon to look and feel. &lt;/p&gt;
+&lt;h4&gt;Getting down to business to create a favicon&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;First time-box&lt;/strong&gt;: drawing a pineapple icon I liked.
+To accomplish this task, I gave myself 10 minutes to roughly sketch something out. Within the time constraints, I was
+able to create a pencil version of a pineapple I actually liked quite a bit. &lt;/p&gt;
+&lt;p&gt;I somewhat cheated after my allotted time, and used up another 5min to color the drawing in so I would have more
+reference when transforming the drawing into an icon. This is the finalized drawing: &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KtClT8X.png&quot; alt=&quot;my first pineapple drawing&quot;&gt;&lt;/p&gt;
+&lt;p&gt;With a drawing I was happy with, I was ready to open up Sketch and getting to vectorizing! &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second time-box&lt;/strong&gt;: excercising my Sketch skills.
+To create my icon, I chose Sketch because it’s a standard tool that UX designers at Target use and because
+I know it to be new user-friendly. In college, though I created a handful of websites from the ground up, the
+teams I was on were never concerned with — or given an opportunity to —fully explore design and user experience,
+so I never had much opportunity to learn design toolings. &lt;/p&gt;
+&lt;p&gt;I went through a &lt;a href=&quot;https://medium.com/sketch-app-sources/how-to-use-sketch-to-build-great-icons-9c3d982ae91d&quot;&gt;Sketch icon tutorial by Christian Krammeron&lt;/a&gt;
+to get a better idea of the tools I could use and where to even start. Knowing that I would be learning Sketch
+as I attempted to vectorize my drawing, I gave myself a time-box of 1 hour and still fumbled around a lot of that hour.&lt;/p&gt;
+&lt;p&gt;This the icon I created at the end of that hour: &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/njeS3bft.png?1&quot; alt=&quot;my first draft of the pineapple icon made using Sketch&quot;&gt;&lt;/p&gt;
+&lt;p&gt;From that exercise I experienced a lot of pain points in how I was using Sketch: &lt;/p&gt;
+&lt;p&gt;🎨 For the crown, I used the vector tool to draw individual points that I connected with rounded edges rather than
+using a shape tool to get uniformity off the bat&lt;br&gt;
+🎨 I created all the lines on the body and then one-by-one curved them&lt;br&gt;
+🎨 The fill tool wasn’t giving me the right blend and overall feel I was hoping for&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Third time’s a charm?&lt;/strong&gt;
+I was not very pleased with my first pineapple iteration, and particularly not happy with how Sketch plays with color blends.
+I pivoted my pineapple design to be more minimalist and cohesive with the color palette I chose for this blog.&lt;/p&gt;
+&lt;p&gt;Instead of using the vector tool to draw out the crown, I chose to use the star tool to create the size I wanted and then
+rounded out the stars edges and curved the connecting lines. For the minimalist look, I stripped out all fill colors and
+changed the color of the pineapple line to be #1ca086 &lt;img src=&quot;https://placehold.it/15/1ca086/000000?text=+&quot; alt=&quot;#1ca086&quot;&gt;. &lt;/p&gt;
+&lt;p&gt;My current icon: &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xsSkIMkt.png&quot; alt=&quot;minimalized pineapple icon&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It’s in no way perfect, but I’m happy with where the icon ended up and much more comfortable with using Sketch to create.&lt;/p&gt;
+&lt;p&gt;I do plan on further iterating on the icon, but now feel much more confident in my ability to:&lt;/p&gt;
+&lt;p&gt;✅ time-box myself&lt;br&gt;
+✅ use Sketch and learn how to best optimize my skills&lt;br&gt;
+✅ express my own creativity&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/f69b9aa3e004ddbb4664934b12c8d6a6/tenor.gif?itemid=5207407&quot; alt=&quot;success kid&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Obligatory "Hello World" post]]></title><description><![CDATA[Look! I  actually  made progress on a side project! I started this blog — entitled “untitled blog” until I 
 can think of a name I like — not…]]></description><link>https:/susanafotu.github.io/untitled-bloggs//hello-world/</link><guid isPermaLink="false">https:/susanafotu.github.io/untitled-bloggs//hello-world/</guid><pubDate>Sat, 12 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;Look! I &lt;em&gt;actually&lt;/em&gt; made progress on a side project!&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;https://media.tenor.com/images/424b004561d02b05588d5ce8e3ab4136/tenor.gif&quot; alt=&quot;excited dance gif&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I started this blog — entitled “untitled blog” until I
